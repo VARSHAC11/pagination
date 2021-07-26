@@ -47,7 +47,7 @@ body {
 .user-container:hover {
   transform: scale(1.2);
   opacity: 1;
-  background:#FFBB3E;
+  background:#EBA4FF;
 }
 .pagi{
   color:white;
